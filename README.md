@@ -5,4 +5,4 @@
 * It is responsive in all screen sizes
 * All images are stored in the image folder
 * A responsive web design using CSS
-*
+
